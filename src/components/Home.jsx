@@ -21,7 +21,7 @@ function Home() {
 
   return (
     <div>
-        <h1>HOme</h1>
+        <h1>Home page</h1>
         {/* <div className='d-flex flex-wrap gap-5'>
          <Card
         image={data[0].image}
